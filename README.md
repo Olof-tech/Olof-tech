@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Olof-tech
-- 👀 I’m interested in Sports, Food, Computes, Coding and Gaming
-- 🌱 I’m currently learning FlutterFlow for mobile apps prototyping
+- 👀 I’m interested in Sports, Food, Computers, Coding and Gaming
+- 🌱 I’m currently learning FlutterFlow for mobile apps with Firebase backend
 - 💞️ I’m looking to collaborate on some mobile apps development
 - 📫 How to reach me - stretch you arms out and send me an email :)
 - 😄 Pronouns: ...
